@@ -3,4 +3,5 @@ resolver = "1"
 
 members = [
     "lesson_1",
+    "lesson_2"
 ]

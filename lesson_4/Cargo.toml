@@ -1,0 +1,12 @@
+[package]
+name = "lesson_4"
+version = "0.1.0"
+edition = "2021"
+
+[lib]
+name = "lib"
+src = ["src/lib.rs"]
+
+[[bin]]
+name = "lesson_4"
+path = "src/main.rs"
